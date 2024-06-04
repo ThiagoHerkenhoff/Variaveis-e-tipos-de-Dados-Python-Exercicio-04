@@ -1,0 +1,5 @@
+# 4 - Leia um numero real e imprima o resultado do quadrado desse numero
+
+n = float(input('Informe um numero: '))
+q = n * n
+print(f'O quadrado do numero é {q})
